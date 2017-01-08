@@ -1,4 +1,4 @@
-## Banksy
+ <a href=""><img src="" border="0" alt="Minecraft text maker" title="textcraft.net image"></a>
 <img src="http://theunexplainedmysteries.com/images/unknow-man.jpg" width="225" height="151" />
 
 Banksy is an England-based graffiti artist, political activist and film director of unverified identity. His satirical street art and subversive epigrams combine dark humour with graffiti executed in a distinctive stenciling technique. His works of political and social commentary have been featured on streets, walls, and bridges of cities throughout the world. Banksy’s work grew out of the Bristol underground scene, which involved collaborations between artists and musicians. Banksy says that he was inspired by 3D, a graffiti artist who later became a founding member of the English musical group Massive Attack.
