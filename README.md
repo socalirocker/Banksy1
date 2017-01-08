@@ -1,7 +1,8 @@
-html>
+<!DOCTYPE html>
+<html>
 <body>
 
-<h1 style="font-family:fixedsys;">Banksy</h1>
+<h1 style="font-family:ar destine;">Banksy</h1>
 
 </body>
 </html>
